@@ -7,3 +7,4 @@
 - 😄 Passionate: **Computers, JavaScript, Code Quality, Best Practices and helping others to reach their goals.**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavallo&theme=buefy&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?kavallo=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
